@@ -80,7 +80,7 @@ header .container {
 .not-connected h1 {
   text-shadow: 2px 2px 0 var(--accent-color);
   font-style: bold;
-  margin: 2rem 0;
+  margin: 1rem 0;
   font-size: 3.5rem;
 }
 
