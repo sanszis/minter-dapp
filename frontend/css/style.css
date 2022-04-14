@@ -81,7 +81,7 @@ header .container {
   text-shadow: 2px 2px 0 var(--accent-color);
   font-style: italic;
   margin: 1rem 0;
-  font-size: 49px;
+  font-size: 80px;
 }
 
 .not-connected p {
