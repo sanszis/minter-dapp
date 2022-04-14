@@ -58,7 +58,7 @@ header .container {
 .menu {
   display: flex;
   gap: 2rem;
-  align-items: normal;
+  align-items: norma;
 }
 
 /* NOT CONNECTED */
@@ -79,7 +79,7 @@ header .container {
 
 .not-connected h1 {
   text-shadow: 2px 2px 0 var(--accent-color);
-  font-style: italic;
+  font-style: bold;
   margin: 2rem 0;
   font-size: 3.5rem;
 }
