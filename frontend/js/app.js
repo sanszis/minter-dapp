@@ -29,7 +29,7 @@ window.addEventListener("DOMContentLoaded", async () => {
     arrows: false,
     perMove: 3,
     pagination: false,
-    autoplay: true,
+    autoplay: false,
     direction: 'ttb',
     height: "calc(100vh - 90px)",
     width: '30vw',
