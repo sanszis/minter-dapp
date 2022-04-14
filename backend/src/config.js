@@ -19,11 +19,11 @@ const layerConfigurations = [
       { name: "Background" },
       { name: "Branch" },
       { name: "Body" },
-      { name: "Mouth Accessory" },
-      { name: "Headgear" },
-      { name: "Neck Accessory" },
-      { name: "Ear Accessory" },
-    ],
+      { name: "Neck" },
+      { name: "Mouth" },
+      { name: "Eyes" },
+      { name: "Head" },
+        ],
   },
 ];
 

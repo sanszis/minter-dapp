@@ -136,7 +136,7 @@ const addMetadata = (_dna, _edition) => {
     edition: _edition,
     ...extraMetadata,
     date: dateTime,
-    compiler: "HashLips Art Engine - Sanszi Modified",
+    compiler: "Sanszi",
   };
   if (network == NETWORK.sol) {
     tempMetadata = {
