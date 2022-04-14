@@ -94,7 +94,7 @@ header .container {
   text-decoration: none;
   color: var(--accent-color);
   font-size: 1.5rem;
-  font-weight: bold;
+  font-weight: italic;
 }
 
 /* BUTTONS */
